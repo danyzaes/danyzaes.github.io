@@ -19,13 +19,12 @@ Me especializo en el **procesamiento de datos biológicos**, **modelado estadís
 
 ---
 
-## 🔬 Casos de Estudio & Proyectos
+## 🔬 Casos de Estudio y Proyectos
 
-### 1. Monitoreo Fisicoquímico y Eficiencia de Biofiltros en Sistemas RAS
-* **Descripción:** Análisis de variables críticas de calidad de agua (amonio, nitritos, nitratos, pH, O₂ disuelto) para evaluar la eficiencia de degradación microbiológica en biofiltros acuícolas.
-* **Tecnologías:** R (`tidyverse`, `ggplot2`), Python (`pandas`).
-* **Resultados clave:** Curvas cinéticas de nitrificación y modelos de regresión para predicción de parámetros.
-* `[ Ver Proyecto / Código ]` *(Enlace a la carpeta del proyecto)*
+### 1. [Monitoreo Fisicoquímico y Eficiencia de Biofiltros en Sistemas RAS (40 Días)](proyectos/biofiltros-ras/)
+* **Descripción:** Análisis de la cinética de nitrificación (*AOB* y *NOB*) y eficiencia de remoción de amonio (TAN) durante la maduración microbiológica de un biofiltro acuícola.
+* **Stack:** RStudio (`tidyverse`, `ggplot2`), GitHub Pages.
+* **Resultados:** Curva cinético-sigmoidal con estabilización del >95% de remoción de TAN a partir del día 28.
 
 ### 2. Cinética de Descomposición y Fases Térmicas en Compostaje
 * **Descripción:** Evaluación de perfiles de temperatura, humedad y relación C/N durante la transformación de residuos orgánicos.
