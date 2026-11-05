@@ -31,12 +31,10 @@ Me especializo en el **procesamiento de datos biológicos**, **modelado estadís
 * **Stack:** RStudio (`tidyverse`, `ggplot2`), GitHub Pages.
 * **Resultados:** Control del pico higienizante (>55 °C) y estabilización de la relación C/N a <12 a temperatura de maduración (25 °C).
 
-### 3. Análisis Multivariado de Adopción de Bioinsumos en Agricultura
-* **Descripción:** Procesamiento de encuestas y datos experimentales sobre el uso de microorganismos eficientes (*Trichoderma*, micorrizas) en fincas cafetaleras.
-* **Tecnologías:** RStudio (`factoextra` para PCA y análisis de clusters).
-* **Resultados clave:** Agrupamiento de perfiles de adopción y correlaciones con rendimiento agrícola.
-* `[ Ver Proyecto / Código ]` *(Enlace a la carpeta del proyecto)*
-
+### 3. [Evaluación Factorial de Bioinsumos y Fitohormonas bajo Estrés Salino (8 Semanas)](proyectos/bioinsumos-hormonales/)
+* **Descripción:** Análisis factorial ($3 \times 3 \times 4$) de la respuesta fitohormonal (IAA/GA3) y mitigación del estrés osmótico por salinidad con bioinsumos microbianos.
+* **Stack:** RStudio (`tidyverse`, `ggplot2`, `rstatix`), GitHub Pages.
+* **Resultados:** Rescate del crecimiento vegetal y sostenimiento de síntesis de IAA ($>6\text{ ppm}$) bajo condiciones de salinidad severa ($100\text{ mM NaCl}$).
 ---
 
 ## 📬 Contacto & Colaboraciones
