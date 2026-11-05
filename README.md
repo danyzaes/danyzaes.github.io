@@ -26,11 +26,10 @@ Me especializo en el **procesamiento de datos biológicos**, **modelado estadís
 * **Stack:** RStudio (`tidyverse`, `ggplot2`), GitHub Pages.
 * **Resultados:** Curva cinético-sigmoidal con estabilización del >95% de remoción de TAN a partir del día 28.
 
-### 2. Cinética de Descomposición y Fases Térmicas en Compostaje
-* **Descripción:** Evaluación de perfiles de temperatura, humedad y relación C/N durante la transformación de residuos orgánicos.
-* **Tecnologías:** Python (`pandas`, `seaborn`), RStudio.
-* **Resultados clave:** Modelado de etapas mesófilas/termófilas e identificación de puntos óptimos de volteo.
-* `[ Ver Proyecto / Código ]` *(Enlace a la carpeta del proyecto)*
+### 2. [Cinética de Maduración y Perfil Térmico en Compostaje de Residuos (50 Días)](proyectos/compostaje-residuos/)
+* **Descripción:** Monitoreo fisicoquímico de las fases mesofílica, termofílica e higienización en la transformación de residuos orgánicos.
+* **Stack:** RStudio (`tidyverse`, `ggplot2`), GitHub Pages.
+* **Resultados:** Control del pico higienizante (>55 °C) y estabilización de la relación C/N a <12 a temperatura de maduración (25 °C).
 
 ### 3. Análisis Multivariado de Adopción de Bioinsumos en Agricultura
 * **Descripción:** Procesamiento de encuestas y datos experimentales sobre el uso de microorganismos eficientes (*Trichoderma*, micorrizas) en fincas cafetaleras.
